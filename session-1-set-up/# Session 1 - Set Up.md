@@ -7,4 +7,12 @@
 
 ## TO DO:
 - 99 bottles of beer on the wall code ✅
-- Clone the repo
+
+## Assessment overview:
+- **KBA 3:** Research and report for the AT3 Project. 
+- **AT1:** Tic, Tac, Toe game on the GitHub classroom. 
+    - Needs to be at least two files
+    - Once test (unit test)
+    - Four functions, two classes, two files, one import
+    - Written report
+    
